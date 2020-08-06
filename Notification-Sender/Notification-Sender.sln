@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notification-Sender", "Notification-Sender\Notification-Sender.csproj", "{84900EEB-0E6D-4688-8DAD-786217D35145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateKeysWebPush", "GenerateKeysWebPush\GenerateKeysWebPush.csproj", "{658AE168-9AD7-4FB9-86BE-5C8C956862BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84900EEB-0E6D-4688-8DAD-786217D35145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84900EEB-0E6D-4688-8DAD-786217D35145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84900EEB-0E6D-4688-8DAD-786217D35145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84900EEB-0E6D-4688-8DAD-786217D35145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658AE168-9AD7-4FB9-86BE-5C8C956862BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658AE168-9AD7-4FB9-86BE-5C8C956862BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658AE168-9AD7-4FB9-86BE-5C8C956862BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658AE168-9AD7-4FB9-86BE-5C8C956862BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
